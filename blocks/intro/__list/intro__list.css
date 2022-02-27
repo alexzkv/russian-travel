@@ -7,3 +7,9 @@
   font-size: 12px;
   line-height: 1.5;
 }
+
+@media screen and (max-width: 767px) {
+  .intro__list {
+  padding-top: 34px;
+  }
+}
