@@ -1,5 +1,10 @@
 .header__lang-links {
   display: flex;
-  
+
   list-style: none;
+}
+
+.header__lang-links:hover {
+  opacity: 0.8;
+  transition: opacity 0.3s linear;
 }
