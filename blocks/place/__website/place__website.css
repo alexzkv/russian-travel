@@ -1,0 +1,15 @@
+.place__website {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+@media screen and (max-width:767px) {
+  .place__website {
+    margin: 0 16px;
+  }
+}

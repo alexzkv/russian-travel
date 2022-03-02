@@ -1,26 +1,19 @@
 .lead__image {
-  max-width: 984px;
+  max-width: 100%;
   margin: auto;
   padding-top: 64px;
+
+  object-fit: cover;
 }
 
 @media screen and (max-width: 1279px) {
   .lead__image {
-    max-width: 928px;
-    padding-top: 56px;
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .lead__image {
-    max-width: 100%;
     padding-top: 56px;
   }
 }
 
 @media screen and (max-width: 767px) {
   .lead__image {
-    max-width: 100%;
     padding-top: 40px;
   }
 }

@@ -2,10 +2,12 @@
   margin: 0;
   padding: 0;
   padding-top: 33px;
-  list-style: none;
+
   font-weight: bold;
   font-size: 12px;
   line-height: 1.5;
+
+  list-style: none;
 }
 
 @media screen and (max-width: 767px) {
