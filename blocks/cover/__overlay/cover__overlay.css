@@ -9,7 +9,7 @@
   max-width: 100%;
   min-height: 740px;
 
-  background: url(../../../images/cover-trains.jpg) no-repeat;
+  background: url(../../../images/cover-trains.jpg) no-repeat center;
   background-size: cover;
 
   text-decoration: none;
@@ -33,19 +33,19 @@
   opacity: 0.8;
 }
 
-@media screen and (max-widht: 1279px) {
+@media screen and (max-width: 1279px) {
   .cover__overlay {
-    height: 640px;
+    min-height: 640px;
   }
 }
 
-@media screen and (max-widht: 1023px) {
+@media screen and (max-width: 1023px) {
   .cover__overlay {
-    height: 480px;
+    min-height: 480px;
   }
 }
 
-@media screen and (max-widht: 767px) {
+@media screen and (max-width: 767px) {
   .cover__overlay {
     min-height: 200px;
   }
