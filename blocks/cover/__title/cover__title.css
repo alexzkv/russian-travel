@@ -1,7 +1,7 @@
 .cover__title {
   z-index: 1;
 
-  max-width: calc(100% - 312px*2);
+  max-width: 560px;
   margin: 0 ;
   padding: 0;
 
