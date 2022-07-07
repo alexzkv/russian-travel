@@ -4,13 +4,13 @@
 
 ***
 
-## Стек
+__Стек__
 - _HTML_
 - _CSS_
 
 ***
 
-## Реализация
+__Реализация__
 - _Flexbox-вёрстка_
 - _Grid Layout_
 - _Медиазапросы_
@@ -18,8 +18,6 @@
 
 ***
 
-## URL:
-
-https://aleksandrzakharov58.github.io/russian-travel/
+__URL:__ https://alexzkv.github.io/russian-travel/
 
 ***
