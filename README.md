@@ -22,5 +22,3 @@ __Реализация__
 
 [Ссылка на проект](https://alexzkv.github.io/russian-travel/)
 
-***
-
