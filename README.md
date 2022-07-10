@@ -9,14 +9,14 @@
 ***
 
 __Стек__
-- _HTML_
-- _CSS_
+- HTML_
+- CSS
 
 ***
 
 __Реализация__
-- _Flexbox-вёрстка_
-- _Grid Layout_
-- _Медиазапросы_
-- _БЭМ Nested_
+- Flexbox-вёрстка
+- Grid Layout
+- Медиазапросы
+- БЭМ Nested
 
