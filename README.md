@@ -2,6 +2,10 @@
 
 Одностраничный сайт адаптированный под все типы устройств. Сайт показывает интересные места для путешествий с фото и описанием. Также доступны ссылки на соответветствующие ресурсы.
 
+**[Ссылка на проект](https://alexzkv.github.io/russian-travel/)**
+
+[Ссылка на Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0) 
+
 ***
 
 __Стек__
@@ -15,10 +19,4 @@ __Реализация__
 - _Grid Layout_
 - _Медиазапросы_
 - _БЭМ Nested_
-
-***
-
-[Ссылка на Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0) 
-
-[Ссылка на проект](https://alexzkv.github.io/russian-travel/)
 
